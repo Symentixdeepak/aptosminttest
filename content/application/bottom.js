@@ -127,7 +127,7 @@ const Bottom = () => {
         <div>
           <img src='aptos.jpg' style={{ height: '300px' }} />
           <p style={{ marginTop: '10px' }} class='text-center'>
-            Suhail
+            Suhails
           </p>
         </div>
         <div>
